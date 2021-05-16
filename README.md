@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliusseTBscript
-- 👀 I’m interested in 3d animation and script
+- 👀 I’m interested in 2d animation and script
 - 🌱 I’m currently learning javascript
 
 <!---
